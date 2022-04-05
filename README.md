@@ -1,6 +1,11 @@
 # Assignment_4
 Assignment 4 for OS class
 
+# Compile instructions
+
+Run make or do 'gcc 170317470.c'
+Then run './a.out'
+
 # Output
 
 ![Output1](https://user-images.githubusercontent.com/103014885/161673256-c10c1495-b33c-4745-af4e-8795936f3668.png)
