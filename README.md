@@ -4,6 +4,7 @@ Assignment 4 for OS class
 # Compile instructions
 
 Run make or do 'gcc 170317470.c'
+
 Then run './a.out'
 
 # Output
